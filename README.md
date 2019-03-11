@@ -14,3 +14,7 @@ and deep learning methods to predict by using real world and effective algorithm
 I try to cover important content for you to start your work as a Data Scientist for any suggestion you can email me.
 
 aliemamalinezhad@gmail.com
+
+Resources:
+
+To understand better, i highly recommend you <font color=green> python for finanace</font> by Yves Hilpisch, also Think stats and think bayes are vey good.
