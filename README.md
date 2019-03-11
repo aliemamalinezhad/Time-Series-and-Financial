@@ -17,4 +17,4 @@ aliemamalinezhad@gmail.com
 
 Resources:
 
-To understand better, i highly recommend you <font color=green> python for finanace</font> by Yves Hilpisch, also Think stats and think bayes are vey good.
+To understand better, i highly recommend you [Python for finance](https://py4fi.pqp.io/nb/portal/login#) by Yves Hilpisch, also Think stats and think bayes are vey good.
