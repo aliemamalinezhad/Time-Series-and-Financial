@@ -17,4 +17,4 @@ aliemamalinezhad@gmail.com
 
 Resources:
 
-To understand better, i highly recommend you [Python for finance](https://py4fi.pqp.io/nb/portal/login#) by Yves Hilpisch, also [Think Stats](https://github.com/AllenDowney/ThinkStats2)and [Think Bayes](https://github.com/AllenDowney/ThinkBayes2) are vey helpful.
+To understand better, i highly recommend you [Python for finance](https://py4fi.pqp.io/nb/portal/login#) by Yves Hilpisch, also [Think Stats](https://github.com/AllenDowney/ThinkStats2) and [Think Bayes](https://github.com/AllenDowney/ThinkBayes2) are vey helpful.
