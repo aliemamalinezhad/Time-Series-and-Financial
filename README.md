@@ -11,7 +11,7 @@ and deep learning methods to predict by using real world and effective algorithm
   <img width="520" height="350" src="Trading_strategy.jpeg">
 </p>
 
-I try to cover important content for you to start your work as a Data Scientist for any suggestion you can email me.
+I try to cover important contents for you to start your work as a Data Scientist for any suggestion you can email me.
 
 aliemamalinezhad@gmail.com
 
